@@ -1,0 +1,5 @@
+XSym
+0095
+17a4f42770f870aba54e1eb577d8524d
+/usr/local/Cellar/python/2.7.5/Frameworks/Python.framework/Versions/2.7/lib/python2.7/codecs.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

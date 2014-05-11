@@ -1,0 +1,5 @@
+XSym
+0092
+cd1c0017e787753f0c50bae484a69c8e
+/usr/local/Cellar/python/2.7.5/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0097
+b8f809fe555e98c2d5a1d98f1a4dd854
+/usr/local/Cellar/python/2.7.5/Frameworks/Python.framework/Versions/2.7/lib/python2.7/copy_reg.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
